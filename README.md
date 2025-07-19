@@ -51,9 +51,9 @@ Classify handwritten digits using the `sklearn.datasets.load_digits` dataset and
 #### └── test (unit testing)
 #### └── inference (inference and CI/CD)
 
-## 📊 Results
+##  Results
 
-### ✅ Training Results
+###  Training Results
 After training the Logistic Regression model on the `load_digits` dataset:
 
 - **Accuracy**: 0.9750
@@ -63,7 +63,7 @@ Model was saved as `model_train.pkl`.
 
 ---
 
-### ✅ Inference Results
+###  Inference Results
 When running inference on the same dataset using the trained model:
 
 - **Accuracy**: 0.9750
