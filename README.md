@@ -33,9 +33,10 @@ Classify handwritten digits using the `sklearn.datasets.load_digits` dataset and
 
 ---
 
-### 🔹 5. **GitHub Actions Workflow Summary**
+###  **GitHub Actions Workflow Summary**
+
 ```markdown
-## 🔁 GitHub Actions Workflows
+
 
 | Workflow        | Branch       | Purpose                            |
 |----------------|--------------|------------------------------------|
@@ -50,7 +51,6 @@ Classify handwritten digits using the `sklearn.datasets.load_digits` dataset and
 #### └── test (unit testing)
 #### └── inference (inference and CI/CD)
 
-## 📊 Results
 ## 📊 Results
 
 ### ✅ Training Results
@@ -81,4 +81,3 @@ These results confirm that the model is performing well on digit classification.
 - **GitHub**: [usudhi](https://github.com/usudhi)  
 - **Roll No.**: G24AI1057  
 - **Email**: g24ai1057@iitj.ac.in
-# mlops-artifact-pipeline
